@@ -1,0 +1,35 @@
+[
+  {
+    "organization": "number1",
+    "offices":[
+        {
+          "coordinates": "51.515419, -0.141099"
+        }
+      ]
+  },
+  {
+    "organization": "number2",
+    "offices":[
+        {
+          "coordinates": "151.515419, -110.141099"
+        },
+        {
+          "coordinates": "51.515419, -0.141099"
+        }
+      ]
+  },
+  {
+    "organization": "number3",
+    "offices":[
+        {
+          "coordinates": "151.515419, -110.141099"
+        },
+        {
+          "coordinates": "151.515419, -110.141099"
+        },
+        {
+          "coordinates": "51.515419, -0.141099"
+        }
+      ]
+  }
+]
