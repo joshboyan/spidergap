@@ -1,0 +1,19 @@
+{
+  "name": "spidergap",
+  "version": "1.0.0",
+  "description": "Coding challenge from spidergap",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshboyan/spidergap.git"
+  },
+  "author": "https://joshboyan.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshboyan/spidergap/issues"
+  },
+  "homepage": "https://github.com/joshboyan/spidergap#readme"
+}
