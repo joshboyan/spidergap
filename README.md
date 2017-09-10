@@ -11,5 +11,7 @@ The entry point to run these exercises is index.js.
 If you download the repo it is also a node package. `cd` into the main directory and run `npm start` to see the output from both files. Run `npm test` to see the output of the unit test written with mocha and chai.
 
 Thanks for taking the time to look!
+
 josh
+
 [https://joshboyan.com](https://joshboyan.com) 
