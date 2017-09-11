@@ -2,8 +2,8 @@
 
 This repo houses code for two coding challenges:
 
-- Deep clone an object [deepclone.js](https://github.com/joshboyan/spidergap/blob/master/deepclone.js).
-- Parse a JOSN object of business partners and return a list of partners within 100km based on their office GPS coordinates [haversine.js](https://github.com/joshboyan/spidergap/blob/master/haversine.js).
+- Deep clone an object [deepclone.js](https://github.com/joshboyan/spidergap/blob/master/lib/deepclone.js).
+- Parse a JOSN object of business partners and return a list of partners within 100km based on their office GPS coordinates [haversine.js](https://github.com/joshboyan/spidergap/blob/master/lib/haversine.js).
 
 ## Check the work
 
